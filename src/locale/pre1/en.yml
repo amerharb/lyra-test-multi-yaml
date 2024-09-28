@@ -1,0 +1,14 @@
+level1:
+  l1-1:
+    msg111: something 111
+    msg112: something 112
+  l1-2:
+    msg121: something 121
+    msg122: something 122
+level2:
+  l2-1:
+    msg211: something 211
+    msg212: something 212
+  l2-2:
+    msg221: something 221
+    msg222: something 222
