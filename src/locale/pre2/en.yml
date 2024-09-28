@@ -1,14 +1,14 @@
 level1:
   l1-1:
-    msg111: something 111
-    msg112: something 112
+    msg111: english 111
+    msg112: english 112
   l1-2:
-    msg121: something 121
-    msg122: something 122
+    msg121: english 121
+    msg122: english 122
 level2:
   l2-1:
-    msg211: something 211
-    msg212: something 212
+    msg211: english 211
+    msg212: english 212
   l2-2:
-    msg221: something 221
-    msg222: something 222
+    msg221: english 221
+    msg222: english 222
